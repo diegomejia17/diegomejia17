@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Mejia</h1>
 <h3 align="center">I am passionate about new technologies and software development, my goal is to solve problems through the application of my knowledge and above all never stop learning</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="mailto:mejiadiego17@gmail.com">mejiadiego17@gmail.com</a></h3>
 <p align="left">
 </p>
 
